@@ -1,6 +1,10 @@
 # Hello!
 
+
 My name is rula lubany
+=======
+
+My name is <your-name>.
   
 This is my first exercise creating a repo.
 
@@ -14,4 +18,4 @@ In this file, I will learn markdown. I will learn it by:
 
 I will use [this reference](https://guides.github.com/features/mastering-markdown/) as a guide.
 
-One day **soon** I will be a markdown master!
+
